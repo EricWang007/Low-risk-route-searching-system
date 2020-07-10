@@ -7,7 +7,7 @@
 ### 到达界面:
  <img src="https://github.com/EricWang007/Low-risk-route-searching-system/blob/master/Arrive-State1.JPG" width="800" /><br>
  ### 行程日志:
- <img src="https://github.com/EricWang007/Low-risk-route-searching-system/blob/master/journal.JPG" width="300" /><br>
+ <img src="https://github.com/EricWang007/Low-risk-route-searching-system/blob/master/journal1.JPG" width="300" /><br>
 ## 核心算法
 程序的核心算法并不复杂，就是利用暴力的dfs算法，根据开始时间、出发时间、开始城市、目的城市四个参数，遍历交通表，搜索出所有可能的路线组合中风险最小的一种。<br>
 风险计算公式如下:<br>
